@@ -19874,40 +19874,16 @@ https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8
 https://ythls.armelin.one/channel/UCr8xNHreYlR3gOjXnd82PBQ.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Classic",TVN3 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="News",TVN (720p)
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVN.ee" tvg-logo="https://i.imgur.com/t8nUMAO.png" group-title="Undefined",TVN (1080p)
-https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Undefined",TVN (1080p) [Geo-blocked]
-https://panel.miplay.cl:8081/tvn/index.m3u8
-#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment;Series",tvN Asia (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-id="TVNBrasil.br" tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="Undefined",TVN Brasil (720p) [Not 24/7]
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNGlobal.co" tvg-logo="https://i.imgur.com/1TcZUzH.png" group-title="Undefined",TVN Global (720p)
-https://tvlatina.live:1936/8006/8006/playlist.m3u8
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="TVNBulgaria.bg" tvg-logo="https://i.imgur.com/kkNtmAW.png" group-title="News",TVN-Bulgaria (1080p)
-https://obs.friendshipchurch.eu/tvn/mystream.m3u8
-#EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="General",TVNBN (720p)
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNET.lv" tvg-logo="https://i.imgur.com/jzv1ssE.png" group-title="Undefined",TVNET (360p)
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://i.imgur.com/mQo8yWQ.png" group-title="Undefined",TVnet (720p)
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNZ1.nz" tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="General",TVNZ 1 [Geo-blocked]
-https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
-#EXTINF:-1 tvg-id="TVNZ2.nz" tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="General",TVNZ 2 [Geo-blocked]
-https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
-#EXTINF:-1 tvg-id="TVNZDUKE.nz" tvg-logo="https://i.imgur.com/tJf9DEI.png" group-title="General",TVNZ Duke [Geo-blocked]
-https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
 #EXTINF:-1 tvg-id="TVO.do" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="Undefined",TVO (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVO.ch" tvg-logo="https://i.imgur.com/i57Vst6.png" group-title="Undefined",TVO (CH) (720p)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="TVOSanVicente.cl" tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="Undefined",TVO San Vicente (720p) [Not 24/7]
-https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TVOE TV HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png" group-title="Kids",TVOKids
@@ -19922,38 +19898,6 @@ http://78.129.193.20/tsstreamer/TVP_SD.ts
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Undefined",TVP2 (1080p)
 https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="Undefined",TVP 3 Białystok (576p)
-https://cdndai.pl/tvp3bialystoksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="Undefined",TVP 3 Bydgoszcz (576p)
-https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="Undefined",TVP 3 Gdańsk (576p)
-https://cdndai.pl/tvp3gdansksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="Undefined",TVP 3 Gorzów Wielkopolski (576p)
-https://cdndai.pl/tvp3gorzowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="Undefined",TVP 3 Katowice (576p)
-https://cdndai.pl/tvp3katowicesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="Undefined",TVP 3 Kielce (576p)
-https://cdndai.pl/tvp3kielcesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="Undefined",TVP 3 Kraków (576p)
-https://cdndai.pl/tvp3krakowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="Undefined",TVP 3 Łódź (576p)
-https://cdndai.pl/tvp3lodzsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="Undefined",TVP 3 Lublin (576p)
-https://cdndai.pl/tvp3lublinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="Undefined",TVP 3 Olsztyn (576p)
-https://cdndai.pl/tvp3olsztynsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="Undefined",TVP 3 Opole (576p)
-https://cdndai.pl/tvp3opolesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="Undefined",TVP 3 Poznań (576p)
-https://cdndai.pl/tvp3poznansd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="Undefined",TVP 3 Rzeszów (576p)
-https://cdndai.pl/tvp3rzeszowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="Undefined",TVP 3 Szczecin (576p)
-https://cdndai.pl/tvp3szczecinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="Undefined",TVP 3 Warszawa (576p)
-https://cdndai.pl/tvp3warszawasd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="Undefined",TVP 3 Wrocław (576p)
-https://cdndai.pl/tvp3wroclawsd/index.m3u8
 #EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Culiacán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Los Mochis (720p) [Not 24/7]
