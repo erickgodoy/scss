@@ -9702,11 +9702,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 tvg-id="LivingFaithTV.us" tvg-logo="https://i.imgur.com/FuNpesJ.png" group-title="Undefined",Living Faith TV (540p)
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-logo="https://i.imgur.com/YikaJvd.png" group-title="News",Living India News (360p)
-https://livelegitpro.in/hls14/livingindia/index.m3u8
-#EXTINF:-1 tvg-id="LivingSpringsTV.ca" tvg-logo="https://i.imgur.com/9DaeNEQ.png" group-title="Religious",Living Springs TV (1080p)
-https://hls-cdn.tvstartup17.net/tvstartup17-channel/live/mp4:livingspringstvedge/playlist.m3u8
-#EXTINF:-1 tvg-id="LleidaTelevisio.es" tvg-logo="https://i.imgur.com/xWY2568.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Lleida Televisió (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-logo="https://i.imgur.com/FVnq2cQ.png" group-title="General",LMTV French (720p) [Not 24/7]
@@ -9717,18 +9712,6 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LN247.ng" tvg-logo="https://i.imgur.com/s6PUehQ.jpg" group-title="News",LN247 (1080p)
 https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LNKTVCity.us" tvg-logo="https://i.imgur.com/mYp0VnE.png" group-title="Undefined",LNKTV City (1080p)
-http://5tv.lincoln.ne.gov/live/live.m3u8
-#EXTINF:-1 tvg-id="LNKTVEducation.us" tvg-logo="https://i.imgur.com/1snCTXp.png" group-title="Education",LNKTV Education (1080p)
-http://80tv.lincoln.ne.gov/live/live.m3u8
-#EXTINF:-1 tvg-id="LNKTVHealth.us" tvg-logo="https://i.imgur.com/dGgmOY0.png" group-title="Lifestyle",LNKTV Health (1080p)
-http://10tv.lincoln.ne.gov/live/live.m3u8
-#EXTINF:-1 tvg-id="LNTV1.la" tvg-logo="https://i.imgur.com/f48hczn.png" group-title="Undefined",LNTV 1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
-#EXTINF:-1 tvg-id="LNTV3.la" tvg-logo="https://i.imgur.com/tdgyUHD.png" group-title="Undefined",LNTV 3
-https://edge1.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 tvg-id="LNTV.lr" tvg-logo="https://i.ibb.co/5TdbQH4/LNTV-Liberia-Logo.png" group-title="General",LNTV (576p) [Not 24/7]
-http://185.59.221.131:8081/live/lntv/playlist.m3u8
 #EXTINF:-1 tvg-id="LNTV.tg" tvg-logo="https://i.imgur.com/RVvsezV.jpeg" group-title="Religious",LNTV (720p)
 https://helga.iptv2022.com/sh/LNTV/index.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Undefined",Loading (720p)
@@ -9860,8 +9843,6 @@ https://cdnstack.internetmultimediaonline.org/auxano/italianlanx/index.m3u8
 https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldUK.uk" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="Religious",Loveworld TV (1080p) [Not 24/7]
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveWorldUSA.us" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="Religious",LoveWorld USA (720p)
-https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/lwut/ngrp:lwu.rtmp_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",LoveWorld XP (480p)
 https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:livestream2022_main_all_transcode/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveworldSAT.za" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Undefined",LoveworldSAT
@@ -9872,9 +9853,6 @@ https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
 https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="LSTV.la" tvg-logo="https://i.imgur.com/fs3dQ6J.png" group-title="Shop",LS TV (480p)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LTOTelevision.ar" tvg-logo="https://i.imgur.com/ibe9iSi.png" group-title="Undefined",LTO Televisión (720p) [Not 24/7]
-https://ltocatamarca.github.io/ltotv.m3u8
-http://89.254.128.5:22280/ltv1_hd/index.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="General",LTV (360p)
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="Undefined",LTV (720p) [Not 24/7]
