@@ -33348,3 +33348,100 @@ https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_jose_luis_perales_031215
 
 #EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/devimage/192252966941/medium/50/1451524293aee8812216987442bac20f000e297739.jpg" group-title="Musica", Carlos Vives
 https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_carlos_vives_031215_2200k.m3u8
+
+********************* LIVEHT    ***************************
+
+
+************ DE  ************
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", DW News English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", ARD Germany
+https://s6.hopslan.com/ard1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", RTL2 Germany
+https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Das Erste Germany
+https://s6.hopslan.com/ard1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", BR Livestream Germany
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master270p700.m3u8
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/masteraudio1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Fernsehen Germany
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-270p-700.m3u8
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-audio1-128.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", NDRFernsehen Germany
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master-270p-700.m3u8
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master-audio1-128.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", RTL Germany
+https://s6.hopslan.com/rtlq222/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", VOX Germany
+https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", NTV Germany
+https://s6.hopslan.com/ntvx1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Nitro Germany
+https://s6.hopslan.com/nitrox1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Nitrox1 Germany
+https://s6.hopslan.com/nitrox1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Arte Germany
+https://s6.hopslan.com/arte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Pro7x1 Germany
+https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", DMAX Germany
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Kamel Germany
+https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Delux Music Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/66c760ec49439_13018905_2408220401_4.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/66c760ec49439_13018905_2408220401_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Wunder Germany
+https://s6.hopslan.com/wunder/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", ZDF Germany
+https://s6.hopslan.com/zdfneox1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", N24 Germany
+https://s6.hopslan.com/n24x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", 3SAT Germany
+https://s6.hopslan.com/3sat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", VIVAX1 Germany
+https://s6.hopslan.com/vivax1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", TELE5 Germany
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", GoldX1 Germany
+https://s6.hopslan.com/goldx1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Doku Germany
+https://s6.hopslan.com/dokux1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", 7Max Germany
+https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Sixx Germany
+https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Sat1 Germany
+https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
