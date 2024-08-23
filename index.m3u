@@ -33354,6 +33354,8 @@ https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_carlos_vives_031215_2200
 
 ************ DE  ************
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Orf 1
+https://s6.hopslan.com/orfx111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", DW News English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
@@ -33446,6 +33448,18 @@ https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Sat1 Germany
 https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Red Bull TV Germany
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", FS1 Germany
+https://stream.fs1.tv/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", CARAC1 Germany
+https://edge19.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w424552744.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="DE", Tele 1
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/Sqva-IoE9dZKBllOtNOOeQ/index-s32.m3u8
+
 
 
 **************** JP ****************
@@ -33461,10 +33475,5 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/index_high.m3u8
 
 **************** FR ****************
 
-
-
-
-
-    
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="FR", 
+https://stream.rtl.lu/data/live/tele/channel2/360p.m3u8
