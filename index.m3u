@@ -33774,3 +33774,84 @@ https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Bloomberg Quicktake
+https://bloomberg-quicktake-1-se.samsung.wurl.tv/c49bc1ebb4e8191afaea1c674f072fa2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Yahoo Finance
+https://yahoo-plex.amagi.tv/playlist216pl.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Brat TV
+https://brat-samsung-us.amagi.tv/en-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", CBS New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_25.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", GLC TV
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", GBN
+https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", TBN
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Fox Weather
+https://247wlive.foxweather.com/stream/index_512x288.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", New12
+https://lnc-news12.tubi.video/primary/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", His Channel
+https://www1.hischannel.com/liveedge/smil:hls.smil/chunklist_w59636906_b978000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Victory Channel
+https://content-asae1-up-1.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908/b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Buzzr
+https://buzzr-samsungus-tsv2-ssdop.amagi.tv/playlist/samsungus-buzzr-samsungtv-us/cb573d177b6c678d99d43d61cef34082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae45817d06ff5b5014e947d41fa83439c8201b380d35f83408471a0119ac1f2dad241d1e4d159966f4ad69939581fa9a53bf7f958a4cfe81153fe420936d0d17bc1e9937d3393534b1cd9f2cead6cfc12b4e24d29a1a7da72fc638d3d8b29da610420dec1dfd8f36f6043c0e8526c26ea85f2c893314240173e7f48aa3bdce0a2652e1b144feb826154b1f0ce068dc014d99a2a88b553d059aa9e689487bb8fe3b1c21fd2758a8fc391334641741742a869e2cb3d957986389fc71d77081604b5cc018dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d21ab2e862a5e98ba5353ab3dfd54bb03abce24481a070dc07566e0bbdf62348560c2c809c012304399215aa83b0a21d6f27e3f8caf2c529482431055d018ea2aa30ac87ce2d1201d211414471031c820bc663bc511b5736a8feb20288b05360dadfe7974396321489f5fb04d3e3c1f6/127/640x360_1057680/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Cheddar
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", CTVN
+https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Bloomberg Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-7-W79w3hV3uBIo_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medlow.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/medlow.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/9nlpxqjd/180/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", AMG
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", FairFax
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-live/_definst_/mp4:fairfax-ch16/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", BeachTV
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w789403732.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Bloomberg
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-7-586P6T28F4Hg_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Bek Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b546000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", CBSN
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/bc5e0f6f-da6e-48c7-b88b-06786d016a8d:CHS/variant/cdd90446ee9f709158c636691ce72a2c/bandwidth/288926.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Akaku
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
