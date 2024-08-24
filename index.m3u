@@ -33499,6 +33499,9 @@ https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
 **************** FR ****************
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="FR", Medi 1
+https://www.livehdtv.com/embed/medi-1-tv/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="FR", RTL
 https://stream.rtl.lu/data/live/tele/channel2/360p.m3u8
 
@@ -33547,6 +33550,77 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 
 
+**************** ES ****************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Canal11 MX
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b448304.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", ADN40
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Telefe
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La1 
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_180.m3u8
+
+
+**************** IT ****************
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", La7 Live
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_416x234_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", La7
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_416x234_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_600/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", RAI1
+https://cors-anywhere-production-d987.up.railway.app/https://m3u.iranvids.com/rai01/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", RAI3
+https://wzstreaming.rai.it/TVlive/liveStream/chunklist.m3u8
+
+
+
+**************** PT ****************
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="PT", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+
+
+**************** SA ****************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="SA", 2M
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="SA", Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="SA", MBC
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="SA", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="SA", Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b4000000.m3u8
+
+
+
 
 **************** RU ****************
 
@@ -33572,8 +33646,131 @@ https://serv25.vintera.tv/1pnk/rezonans/chunks.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_800Kb.m3u8
 
 
+
 **************** EXTRA ****************
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", KissTV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", RTK1 Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", RTK2 Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/g7t-zdp-y08-eig/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", News24 Albania
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", AZTV
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Azerbaycan
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Imedi
+https://tv.cdn.xsg.ge/imedihd/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", ERT World
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Skai
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate600K_avc1_mp4a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Action24
+https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Shree
+https://stream.e2is.in/hls/Shree.Shyamtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", 7xMusic
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Caltex
+https://video.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Press
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b344100_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", MTC
+https://mtchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Channel13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Isreal
+https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_350/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", KAN 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_600/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Keshet12
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1724544899~acl=%2f*~data=hdntl~hmac=620513fb9ded2d5f74ae523ad7e4bfb5b6a46be55f7e26cd52ff8d75ae4561ae/index_550.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", News Israel
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_5/d079f8aece3b443ead8476fa39e5a17f/chunklist_ssaiV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Makan33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_350/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", AT5
+https://n2.cdn.jetstre.am/session/0a1611cdafb4607414c1c16e30b5b169/sz/atvijf/wowza4/live/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Den Haag
+https://wowza2.videostreamingwowza.com/denhaag/denhaag/chunklist_w1658272429.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", Modum Live
+https://cdn012.panaccess.com/5677_streams/Titan_TVMODUM/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", 4Fun
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", 24Kahan
+https://streamvideol1.luxnet.ua/news24/livenews_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", 12Kahan
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdlow.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", 7 Channel Odessa
+https://cdn10.live-tv.cloud/7tvod/7tvod-abr-lq/7tvod/7tvod-sub3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", DMAX Turkey
+https://dogus-live.daioncdn.net/dmax/dmax_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", TRT World
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", TLC Turkey
+https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", StarTV Turkey
+https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", 24TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", TRT1
+https://dvrfl05.tulix.tv/gin-trt1eu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", HalkTV
+https://halktv-live.daioncdn.net/halktv/halktv_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EXTRA", TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
+
+
+
+**************** EN ****************
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/06.m3u8
