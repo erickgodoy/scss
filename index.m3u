@@ -30714,10 +30714,6 @@ https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8?laope.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7kkwPB.png" group-title="Canales Chilenos", TV Salud | HD
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fKByJrs.png" group-title="Canales Chilenos Regionales", -[COLOR red]Canales Chilenos Regionales[/COLOR]-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUfqpcX.jpg" group-title="Canales Chilenos Regionales", Puerta Norte TV | FHD | Arica
 https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
@@ -33499,6 +33495,9 @@ https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 
 **************** FR ****************
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="FR", Ici RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="FR", Medi 1
 https://www.livehdtv.com/embed/medi-1-tv/
 
@@ -33569,6 +33568,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La1 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_180.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Ici Television
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/b3b1e9b972e0507d33dfaa0d2d40fe6b/1.m3u8
 
 
 **************** IT ****************
@@ -33855,3 +33857,60 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/bc5e0f6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Akaku
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Akaku 53
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index375.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-07-4Qr5sEpfNFG_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", NBC
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/874aa967-40a5-4a80-b0d6-6952a8e225da/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist360_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Fox Business
+https://stream.livenewspro.com:1936/foxbusiness/foxbusiness//chunklist_w127672623_tkc2VjZW5kdGltZT0xNzI0NjE4MTgwJnNlY2hhc2g9Z0RlaWg5Z1JwRkhUa0lIaTl6bmR3OTBCSHFNNUpjcTRSa29Xd3pLVVltQT0mc2Vjc3RhcnR0aW1lPTE3MjQ1NDMxODA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", CBC News Canada
+https://lnc-cbc2.tubi.video/master240P.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", NTV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Global News
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Amazing Discoveries
+https://bozztv.com/btrn03/amazingdtv-srt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Dave Live
+https://livetvde.net/dave/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", GB News
+https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/cb543d177b6c678d99d43d61cef042a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac745adb80148b61299bce8c37683f03409a5e5afba358b1ebe9544cd938a0e21955932d4de49f43c8814aa6d1d452cd5e8e70a240ccc7f7ddd01987d5f32393688a9cebc84307fbb05cd1ad6db3c88f1b41f6131b676e9b623ef184230f89525754b8dec6ba77f610cff34ee9c8f62b61ea2ba839876ae879cf428f30ccc9bc6e6c18dea077682aa1afc0d8b95d37cc9b8a67347c0434398f40091195b0fa118b72fcdcc61196ca1697f90f8cb96827f5a1fb4ab692a88ae3bc8c05c96b9a87bcaf344c4a6c1311c67396da3c8b678d23e8f91a2f0a191fed820390cf997f20724383b75bd63812ad94ded08840689c205371c054f477492cc03d6779a50afc993763c066298d2732f65d7ad110a4f67cbbf795b54608b4d8c650f620bae65d9ca554db18563335bafc2850525f3d81be146a1e4d8314b49d9a9b346366cbf8c2f9cc5642771a1f400386e7a73ddbb9c9271919d64064075015049d10d979d56318527dd17f33cd998c4fd047bb183e8fd1594378c4371372e324be20/123/640x360_1020800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", PBS
+https://d1nlhbqjulacw7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-ams-aws/94ee9e2e-0f6e-4c6a-a606-cefbb5f6110f/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Horse & Country
+https://hnc-free-viewlift.amagi.tv/playlist288_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Expo Channel Australia
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master_EXPO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Bloomberg Australia
+https://d3pj43hdmsyj8q.cloudfront.net/oz1/Channel-OZTVqvs-AWS-tokyo-2/Source-OZTVqvs-10000-1-sxrye5-BP-HD-7-ZVp2kt0vSMH7_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_44.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", SkyNews Australia
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master480x270.m3u8
