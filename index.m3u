@@ -17843,10 +17843,6 @@ http://canli.tvden.com.tr/hls/live.m3u8
 https://ythls.armelin.one/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
 #EXTINF:-1 tvg-id="TVDestak.br" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="General",TV Destak (360p)
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão (720p)
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDiarioMacapa.br" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="General",TV Diário Macapá (1080p) [Not 24/7]
-https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDielli.xk" tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="Undefined",TV Dielli (720p) [Not 24/7]
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1 tvg-id="TVDifusoraLeste.br" tvg-logo="https://i.imgur.com/hEd25Cr.png" group-title="General",TV Difusora Leste (1080p)
