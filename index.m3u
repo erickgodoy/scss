@@ -4798,72 +4798,16 @@ http://193.106.124.204:3000/play/a02b
 http://178.219.128.68:64888/DISNXD
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="Legislative",District of Columbia Network (DCN) (1080p)
-https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (576p)
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DistritoTV.es" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="General",Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dittsche.at" tvg-logo="" group-title="Undefined",Dittsche
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbfa1a9e38ec0007a395b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=50fd83c9-2e3e-48ce-b2b1-1d1e71349c96&serverSideAds=false
-#EXTINF:-1 tvg-id="Dittsche.ch" tvg-logo="" group-title="Undefined",Dittsche
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbfa1a9e38ec0007a395b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83cc75-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc821e69-4dcd-4c3a-974e-efd522abaf95&serverSideAds=false
-#EXTINF:-1 tvg-id="Dittsche.de" tvg-logo="" group-title="Undefined",Dittsche
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbfa1a9e38ec0007a395b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=41a61ea0-a15c-4696-a42f-21d3370d4067&serverSideAds=false
-#EXTINF:-1 tvg-id="Diva.za" tvg-logo="https://i.imgur.com/U9wMnQ0.png" group-title="Lifestyle",Diva (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
-#EXTINF:-1 tvg-id="DivinAmourTV.ci" tvg-logo="https://i.imgur.com/UUSAQET.png" group-title="Religious",Divin Amour TV (720p)
-https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Lifestyle",Divinity (432p)
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="DivyaDarshanTV.np" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV (720p)
-http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Diya TV (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/diyatv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="Religious",Diyanet TV (1080p)
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="Religious",Diyar TV (720p)
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-id="DJLonchoTV.cl" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png" group-title="Music",DJ Loncho TV (720p)
-https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Djazz
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
-#EXTINF:-1 tvg-id="DjomaTV.gn" tvg-logo="https://i.imgur.com/VDENl4H.png" group-title="General",Djoma TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC2vtjGPB2VndmlME61XaRUw.m3u8
-#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-logo="https://i.imgur.com/Tf32BJa.png" group-title="Undefined",dlaCiebie.tv (1080p) [Not 24/7]
-http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1 (1080p)
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Education",DLTV 2 (1080p)
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Education",DLTV 3 (1080p)
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Education",DLTV 4 (1080p)
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Education",DLTV 5 (1080p)
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Education",DLTV 6 (1080p)
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Education",DLTV 7 (1080p)
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Education",DLTV 8 (1080p)
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Education",DLTV 9 (1080p)
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Education",DLTV 10 (1080p)
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Education",DLTV 11 (1080p)
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Education",DLTV 12 (1080p)
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Education",DLTV 13 (1080p)
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Education",DLTV 14 (1080p)
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Education",DLTV 15 (1080p)
-https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ Cuzco (720p) [Not 24/7]
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DMpy.py" tvg-logo="https://i.imgur.com/xm41ZiQ.jpg" group-title="Music",DMpy (720p)
