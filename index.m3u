@@ -32869,13 +32869,18 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", ADN40
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_600.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", CDN
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", RCN Extra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Telefe
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", TV Azteca Guatemala
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", TV Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
