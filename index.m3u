@@ -32841,8 +32841,10 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Canal11 MX
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b448304.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La 1 España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La 7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", ADN40
@@ -32861,10 +32863,12 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", TVE Star 
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", La1 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_180.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", TVE 
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Ici Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/b3b1e9b972e0507d33dfaa0d2d40fe6b/1.m3u8
 
@@ -32873,7 +32877,8 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/b3b1e9b972e0507d33d
 
 #EXTINF:-1 tvg-id="16AnnieIncinta.it" tvg-logo="https://i.imgur.com/Y2pEs8H.png" group-title="IT",16 Anni e Incinta Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="IT", Rai3
+https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="IT",12 TV Parma (540p) [Not 24/7]
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
@@ -32902,7 +32907,8 @@ https://wzstreaming.rai.it/TVlive/liveStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="PT", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="PT", SIC Portugal
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 
 **************** SA ****************
