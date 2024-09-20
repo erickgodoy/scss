@@ -32826,6 +32826,12 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 
 **************** ES ****************
 
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ES", ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ES", ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ES", ATV Sur
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="ES",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-logo="https://i.imgur.com/EY0DlT0.png" group-title="ES",15tv Sabinas (XHSDD-TDT) (360p)
@@ -32871,7 +32877,12 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_180.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Ici Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/b3b1e9b972e0507d33dfaa0d2d40fe6b/1.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Bolivisión
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", Antena 7
+https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="ES", TV Color
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 **************** IT ****************
 
@@ -33113,7 +33124,8 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="EN",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="EN",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="EN", Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/06.m3u8
 
