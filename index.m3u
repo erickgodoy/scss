@@ -2381,58 +2381,22 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Music",Cadena Elite (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV (720p)
-https://servilive.com:3079/live/cdnatvlive.m3u8
-#EXTINF:-1 tvg-id="CadenaVIVO.ar" tvg-logo="https://i.imgur.com/bCjaI8j.png" group-title="Undefined",Cadena V!VO (720p) [Not 24/7]
-https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8
-#EXTINF:-1 tvg-id="CAFTV.eg" tvg-logo="https://i.imgur.com/zh12mNN.jpg" group-title="Sports",CAF TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
 #EXTINF:-1 tvg-id="CafeTradeTV.us" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="Business",Cafe Trade TV (720p)
 https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-logo="https://i.imgur.com/SRFzjja.png" group-title="Undefined",CafeTV24 (720p)
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CahayaTVBanten.id" tvg-logo="https://i.imgur.com/Ph9yYpb.png" group-title="Undefined",Cahaya Banten TV (720p) [Not 24/7]
-https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV.us" tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="Undefined",Calabasas Channel (480p)
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
-#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="General",Calabria TV (256p)
-https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8
-#EXTINF:-1 tvg-id="CalchaquiTV.ar" tvg-logo="https://i.imgur.com/5XkvytM.png" group-title="Undefined",Calchaquí TV (480p)
-https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8
-#EXTINF:-1 tvg-id="CalderaVision.cl" tvg-logo="https://i2.paste.pics/858141c7c41b39c658df61aae68aee83.png" group-title="Undefined",Caldera Vision
-https://5ff3d9babae13.streamlock.net/frknrusdct/frknrusdct/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Undefined",Cali TV (540p) [Not 24/7]
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="General",California Medios TV (720p)
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-#EXTINF:-1 tvg-id="Calle13Universal.es" tvg-logo="https://i.imgur.com/Lu1l4qD.png" group-title="Undefined",Calle 13 Universal (1080p) [Geo-blocked]
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="CalvaryTV.in" tvg-logo="https://i.imgur.com/BvQzwSp.png" group-title="Undefined",Calvary TV (720p)
-https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ChamberofRepresentatives.co" tvg-logo="https://i.imgur.com/RbZEicf.png" group-title="Legislative",Cámara de Representantes (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8
-#EXTINF:-1 tvg-id="ChamberofRepresentatives.uy" tvg-logo="https://i.imgur.com/tvIFxu1.png" group-title="Legislative",Cámara de Representantes (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCUxioxgZ7obrP3wVJApAK1w.m3u8
-#EXTINF:-1 tvg-id="CamaradeSenadores.uy" tvg-logo="https://i.imgur.com/6NBK4LN.png" group-title="Legislative",Cámara de Senadores (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8
-#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-logo="https://i.imgur.com/hv4zi9N.png" group-title="Legislative",Camera dei Deputati (via RR) (240p)
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Comedy",Camera Smile (480p)
 https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="CaminoRealTV.do" tvg-logo="https://i.imgur.com/2GAEWhn.png" group-title="General",Camino Real TV (720p)
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CamoesTV.ca" tvg-logo="https://i.imgur.com/XMdQhgz.jpg" group-title="General",Camões TV (1080p) [Not 24/7]
-https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 tvg-id="Campo9Online.py" tvg-logo="https://i.imgur.com/t8hTr7N.png" group-title="General",Campo 9 Online (720p)
-https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CampoAbiertoTV.cl" tvg-logo="https://i.imgur.com/KL6pgaL.png" group-title="Undefined",Campo Abierto TV (480p)
-https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
-#EXTINF:-1 tvg-id="CampoTelevision.co" tvg-logo="https://i.imgur.com/kqjTOwB.png" group-title="Undefined",Campo Televisión (720p)
-https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="Undefined",Campus TV (480p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTV.cl" tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Undefined",Campus TV (Talca) (720p) [Not 24/7]
