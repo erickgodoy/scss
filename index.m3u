@@ -74,20 +74,6 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 https://lnc-wmar.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WTAEDT1.us" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="Undefined",ABC 4 Pittsburg PA (WTAE) (720p)
 https://lnc-wtae.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WCVBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png" group-title="Undefined",ABC 5 Boston MA (WCVB) (720p)
-https://lnc-wcvb.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WEWSDT1.us" tvg-logo="https://i.imgur.com/sUonBr6.png" group-title="Undefined",ABC 5 Cleveland OH (WEWS) (720p)
-https://lnc-wews2.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KOCODT1.us" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="Undefined",ABC 5 Oklahoma City OK (KOCO) (720p)
-https://lnc-koco.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KIVIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png" group-title="Undefined",ABC 6 Boise ID (KIVI) (720p)
-https://lnc-kivi.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KOATDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 7 Albuquerque NM (KOAT) (720p)
-https://lnc-koat.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WXYZDT1.us" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="Undefined",ABC 7 Detroit MI (WXYZ) (720p)
-https://lnc-wxyz2.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KETVDT1.us" tvg-logo="https://i.imgur.com/CWZtYNi.png" group-title="Undefined",ABC 7 Omaha NE (KETV) (720p)
-https://lnc-ketv.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WFAADT1.us" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="Undefined",ABC 8 Dallas TX (WFAA) (1080p)
 https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
 #EXTINF:-1 tvg-id="WMTWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 8 Portland ME (WMTW) (720p)
@@ -4371,10 +4357,6 @@ https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 http://89.111.136.7:8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-id="DanmarkCTV.dk" tvg-logo="https://i.imgur.com/oGeNr8e.jpg" group-title="General",DanmarkC TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC582CKg7XN_ELMyKiSZ8s9g.m3u8
-#EXTINF:-1 tvg-id="DaoLaneXangTV.la" tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="General",Dao Lane Xang (720p) [Not 24/7]
-https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DarkMatter.at" tvg-logo="" group-title="Undefined",Dark Matter
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6893d11a-d794-409e-a9f2-0afb2b6100aa&serverSideAds=false
 #EXTINF:-1 tvg-id="DarkMatter.ch" tvg-logo="" group-title="Undefined",Dark Matter
