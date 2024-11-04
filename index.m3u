@@ -21,93 +21,28 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="Movies",90s Throwback
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
-#EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="Music",98.1 Pearl FM (720p)
-https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="Auto",100% Auto Moto TV (406p) [Not 24/7]
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",100% Docs
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="101tvAntequera.es" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",101tv Antequera
-#EXTVLCOPT:http-referrer=https://www.101tv.es/antequera/
-https://www.streaming101tv.es:19360/antequera/antequera.m3u8
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj" group-title="News",101tv Málaga (1080p)
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",247 Box
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="312Kino.kg" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" group-title="Movies",312 Кино (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312TV.kg" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Entertainment",312 ТВ (406p)
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="General",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360News.ru" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="News",360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="News",360 TV (720p) [Not 24/7]
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="504TV.hn" tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="Entertainment",504 TV (720p)
-https://mediacp.us:8081/504tvhn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",947 Joburg (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCYTTndlEZ-zBvVAxtayuNEA.m3u8
 #EXTINF:-1 tvg-id="90210.at" tvg-logo="" group-title="Undefined",90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d&serverSideAds=false
 #EXTINF:-1 tvg-id="90210.ch" tvg-logo="" group-title="Undefined",90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8293f0-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b751f03-945e-4e30-a909-d3e4de858fa8&serverSideAds=false
 #EXTINF:-1 tvg-id="90210.us" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="Series",90210
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265960-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b3051db-b19e-4913-a7e9-fddc37302264
-#EXTINF:-1 tvg-id="AtTV.th" tvg-logo="https://files.catbox.moe/6rj9aw.jpg" group-title="Undefined",@TV (720p)
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A21 Network | Russian Motorsport Television
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",A24 (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-id="ANews.tr" tvg-logo="https://i.imgur.com/6tWCzTp.png" group-title="News",A News (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="General",A+ Guate (720p)
 https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AbalfadhlTV.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
 https://t.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="General",Abaza TV
-https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 tvg-id="WMARDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="Undefined",ABC 2 Baltimore MD (WMAR) (720p)
-https://lnc-wmar.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WTAEDT1.us" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="Undefined",ABC 4 Pittsburg PA (WTAE) (720p)
-https://lnc-wtae.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WFAADT1.us" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="Undefined",ABC 8 Dallas TX (WFAA) (1080p)
-https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
-#EXTINF:-1 tvg-id="WMTWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 8 Portland ME (WMTW) (720p)
-https://lnc-wmtw.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
-https://lnc-wsoc.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WCPODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png" group-title="Undefined",ABC 9 Cincinnati OH (WCPO) (720p)
-https://lnc-wcpo.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KMBCDT1.us" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="News",ABC 9 Kansas City MO (KMBC-TV) (720p)
-https://lnc-kmbc.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WMURDT1.us" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="Undefined",ABC 9 Manchester NH (WMUR-TV) (720p)
-https://lnc-wmur.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KGUNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 9 Tucson AZ (KGUN) (720p)
-https://lnc-kgun.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WISNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 12 Milwaukee WI (WISN) (720p)
-https://lnc-wisn.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WAPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 16 Jackson MS (WAPT) (720p)
-https://lnc-wapt.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WJCLDT1.us" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="News",ABC 22 Savannah GA (WJCL) (720p)
-https://lnc-wjcl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 27 Tallahassee FL (WTXL) (720p)
-https://lnc-wtxl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 28 Tampa Bay FL (WFTS) (720p)
-https://lnc-wfts2.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KFSNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)
-https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
-#EXTINF:-1 tvg-id="KHBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 40/29 Fort Smith AR (KHBS) (720p)
-https://lnc-khbs.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="Undefined",ABC (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="WPLGDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1 tvg-id="ABCMESydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="Education;Kids",ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="ABCTVSA.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Adelaide (720p)
 https://c.mjh.nz/abc-sa.m3u8
 #EXTINF:-1 tvg-id="ABCTVNT.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="General",ABC TV Darwin (720p)
@@ -20947,8 +20882,6 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-name="Canal 11" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica-en-vivo-Online.png" tvg-id="Canal11.cr" group-title="Costa Rica",Canal 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-name="88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" tvg-id="88stereo.cr" group-title="Costa Rica",88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" group-title="Croatia",HRT 1
 https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
 #EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" group-title="Croatia",HRT 2
