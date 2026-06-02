@@ -14556,16 +14556,6 @@ http://185.234.111.229:8000/play/a013
 http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xBc6gou.png" tvg-name="Kanal 10 (1080i)" group-title="News",Kanal 10 (1080i)
 http://77.83.120.135:8001/play/a165
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tY7IJva.png" tvg-name="Kanal 10 Asia (540p)" group-title="Religious",Kanal 10 Asia (540p)
-http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mr7XPii.png" tvg-name="Kanal 26 (1080p)" group-title="General",Kanal 26 (1080p)
-http://185.234.111.229:8000/play/a04e
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png" tvg-name="Kanal 32 (720p)" group-title="General",Kanal 32 (720p)
-http://185.234.111.229:8000/play/a05r
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SIaI6Sj.png" tvg-name="Kanal 34 (720p)" group-title="General",Kanal 34 (720p)
-https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-name="Kanal 58 (576p)" group-title="General",Kanal 58 (576p)
-http://185.234.111.229:8000/play/a053
 #EXTINF:-1 tvg-name="KANAL 58 (720p) [Not 24/7]" group-title="Undefined",KANAL 58 (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHNpcqF.png" tvg-name="Kanal A" group-title="General",Kanal A
