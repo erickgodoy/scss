@@ -1,70 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 1)
 http://190.108.83.69:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 2)
 http://148.222.230.201:8000/play/a0pk/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 3)
 http://148.222.230.197:8000/play/a0mm/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 4)
 http://181.64.27.65:8000/play/a0dq/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 5)
 http://38.187.7.252:8000/play/a03d/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 6)
 http://190.223.48.46:8000/play/a028/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 7)
 http://191.97.59.33:8000/play/a09t/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 8)
 http://190.117.20.37:8000/play/a08d/index.m3u
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 9)
 http://177.53.152.117:8000/play/a07d/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 10)
 http://8.243.126.131:8000/play/a05a/index.m3u8
-
 #EXTINF:-1,DSports 2 HD
 http://190.7.19.197:232/play/a09h/index.m3u8
-
 #EXTINF:-1,DSports HD
 http://190.7.19.197:232/play/a09i/index.m3u8
-
 #EXTINF:-1,DeporTV
 http://190.7.19.197:232/play/a05d/index.m3u8
-
 #EXTINF:-1,ESPN 2 HD
 http://190.7.19.197:232/play/a03m/index.m3u8
-
 #EXTINF:-1,ESPN 3 HD
 http://190.7.19.197:232/play/a03o/index.m3u8
-
 #EXTINF:-1,ESPN 4 HD
 http://190.7.19.197:232/play/a05t/index.m3u8
-
 #EXTINF:-1,ESPN HD
 http://190.7.19.197:232/play/a03n/index.m3u8
-
 #EXTINF:-1,ESPN Premium HD
 http://190.7.19.197:232/play/a038/index.m3u8
-
 #EXTINF:-1,Fox Sports 2 HD
 http://190.7.19.197:232/play/a03p/index.m3u8
-
 #EXTINF:-1,Fox Sports 3 HD
 http://190.7.19.197:232/play/a04x/index.m3u8
-
 #EXTINF:-1,Fox Sports HD
 http://190.7.19.197:232/play/a05u/index.m3u8
-
 #EXTINF:-1,TyC Sports HD
 http://190.7.19.197:232/play/a04w/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" tvg-name="Telepavia" group-title="Uncategorized",Telepavia
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-name="Rai 1" group-title="Uncategorized",Rai 1
@@ -7057,8 +7035,6 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/12Z9qPw.png" tvg-name="RNN" group-title="news",RNN
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FkHqqsi.jpg" tvg-name="Rocavision TV" group-title="general",Rocavision TV
-https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EXnsmhx.png" tvg-name="Romana TV Canal 42" group-title="general",Romana TV Canal 42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" tvg-name="Alegre TV RD" group-title="entertainment",Alegre TV RD
@@ -15698,44 +15674,8 @@ https://realitatealive.md/tv/rlive.m3u8
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" tvg-name="RN Televisión (720p) [Not 24/7]" group-title="Undefined",RN Televisión (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-name="RoboCop" group-title="Undefined",RoboCop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b209801-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2100f30b-2b75-4b3a-bda0-4dad87fba333
-#EXTINF:-1 tvg-name="RoboCop" group-title="Undefined",RoboCop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861662-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=10a24502-a258-4d54-9c91-e9fcad3cc31c
-#EXTINF:-1 tvg-name="RoboCop" group-title="Undefined",RoboCop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b31d1fa6-f169-481e-a79c-8a778111e034
 #EXTINF:-1 tvg-name="Robot Wars by MECH+" group-title="Undefined",Robot Wars by MECH+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ff1ce298020f000849ff20/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072634-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65a59c6b-2c76-49f3-97a2-43e9a41020c6
-#EXTINF:-1 tvg-name="Rocavision TV" group-title="Undefined",Rocavision TV
-https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8
-#EXTINF:-1 tvg-name="Rock Classics (Radio) [Geo-blocked]" group-title="Undefined",Rock Classics (Radio) [Geo-blocked]
-http://80.79.6.221:25461/smash/public/24
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VB88A5V.png" tvg-name="Rock TV (720p)" group-title="Music",Rock TV (720p)
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XwCeHlC.png" tvg-name="Rodja TV (720p)" group-title="Undefined",Rodja TV (720p)
-https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-name="Romance 365" group-title="Undefined",Romance 365
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6cd97b90e60007bc318a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb48-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc1c4c08-8f65-4478-b529-e20763cbfc28
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLDfFpu.png" tvg-name="Rotana Aflam+ (1080p)" group-title="Undefined",Rotana Aflam+ (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" tvg-name="Rotana Cinema Egypt (1080p)" group-title="Movies",Rotana Cinema Egypt (1080p)
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-name="Rotana Clip (1080p)" group-title="Undefined",Rotana Clip (1080p)
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-name="Rotana Comedy (1080p)" group-title="Comedy",Rotana Comedy (1080p)
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-name="Rotana Drama (1080p)" group-title="Series",Rotana Drama (1080p)
-https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-name="Rotana Khalijia (1080p)" group-title="Music",Rotana Khalijia (1080p)
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-name="Rotana M+" group-title="Undefined",Rotana M+
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-name="Rotana Radio Jordan Studio (1080p) [Not 24/7]" group-title="Undefined",Rotana Radio Jordan Studio (1080p) [Not 24/7]
-http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjgOBts.png" tvg-name="Rotana Tarab Jordan City View (720p) [Not 24/7]" group-title="Undefined",Rotana Tarab Jordan City View (720p) [Not 24/7]
-http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1 tvg-name="Rotterdam Podium TV (480p)" group-title="Undefined",Rotterdam Podium TV (480p)
-http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIThcM8.png" tvg-name="Roya Comedy (1080p)" group-title="Comedy",Roya Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7I0MVf.png" tvg-name="Roya Drama (1080p)" group-title="Series",Roya Drama (1080p)
@@ -22424,12 +22364,6 @@ https://ythls.armelin.one/channel/UCDPnSqLmYqHadD6VkrRiarg.m3u8
 https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HHDUnow.png" tvg-name="ROB TV (1080p)" group-title="Undefined",ROB TV (1080p)
 https://live.zendzend.com/streams/29375_395477/playlist.m3u8
-#EXTINF:-1 tvg-name="RoboCop" group-title="Undefined",RoboCop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b209801-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2100f30b-2b75-4b3a-bda0-4dad87fba333&serverSideAds=false
-#EXTINF:-1 tvg-name="RoboCop" group-title="Undefined",RoboCop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861662-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10a24502-a258-4d54-9c91-e9fcad3cc31c&serverSideAds=false
-#EXTINF:-1 tvg-name="RoboCop" group-title="Undefined",RoboCop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b31d1fa6-f169-481e-a79c-8a778111e034&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-name="ROCK Action (576p) [Geo-blocked]" group-title="Entertainment",ROCK Action (576p) [Geo-blocked]
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-name="ROCK Entertainment (576p) [Geo-blocked]" group-title="Entertainment",ROCK Entertainment (576p) [Geo-blocked]
