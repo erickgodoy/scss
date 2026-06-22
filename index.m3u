@@ -1615,8 +1615,6 @@ https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
 https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kOGQBZj.png" tvg-name="RVTV Voices" group-title="general",RVTV Voices
 https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" tvg-name="W14DK-D5" group-title="sports",W14DK-D5
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOYF8NA.png" tvg-name="Scientology Network" group-title="Uncategorized",Scientology Network
 https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lfE6Q9i.png" tvg-name="Scottsdale Channel 11" group-title="general",Scottsdale Channel 11
@@ -1625,10 +1623,6 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vaSXaFp.png" tvg-name="Wanted: Dead or Alive" group-title="classic",Wanted: Dead or Alive
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhIRe7O.png" tvg-name="WATC-DT1" group-title="Uncategorized",WATC-DT1
-https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAfuLul.png" tvg-name="WATC-DT2" group-title="Uncategorized",WATC-DT2
-https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CyQ472C.png" tvg-name="SLO County Channel 21" group-title="Uncategorized",SLO County Channel 21
 https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="WBBJ-DT1" group-title="Uncategorized",WBBJ-DT1
@@ -1639,30 +1633,12 @@ https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/960px-WCAUlogo2.svg.png" tvg-name="WCAU-DT1" group-title="Uncategorized",WCAU-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJGY8iv.png" tvg-name="WCCA-DT1" group-title="Uncategorized",WCCA-DT1
-https://worcester.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMUBDzY.jpg" tvg-name="WCOT" group-title="general",WCOT
-https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/WCVB-TV_alternate_2021.svg" tvg-name="WCVB-DT1" group-title="general",WCVB-DT1
-https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocs2DeU.png" tvg-name="WDAF-DT2" group-title="Uncategorized",WDAF-DT2
-https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3L2vSL.png" tvg-name="WeHoTV" group-title="Uncategorized",WeHoTV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-name="WFLD-DT1" group-title="Uncategorized",WFLD-DT1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-name="WFTX-DT1" group-title="Uncategorized",WFTX-DT1
-https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png" tvg-name="WFUT-DT1" group-title="Uncategorized",WFUT-DT1
-https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-name="WGTV-DT3" group-title="Uncategorized",WGTV-DT3
-https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XGQfBbW.png" tvg-name="White Plains Community Media" group-title="Uncategorized",White Plains Community Media
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" tvg-name="Wild 'N Out" group-title="series",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTD9nLE.png" tvg-name="WHOH-TV" group-title="general",WHOH-TV
-https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bl8X7EW.png" tvg-name="The Addams Family" group-title="series",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5yzPhRo.png" tvg-name="The Amazing Race" group-title="series",The Amazing Race
@@ -1673,34 +1649,8 @@ https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/400m3ow.png" tvg-name="The Monterey Channel" group-title="general",The Monterey Channel
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NfqhdBC.png" tvg-name="WJLA-DT1" group-title="Uncategorized",WJLA-DT1
-https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrWo0P1.png" tvg-name="WJXT-DT1" group-title="Uncategorized",WJXT-DT1
-https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="WKEF-DT1" group-title="Uncategorized",WKEF-DT1
-https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-name="WKMG-DT1" group-title="Uncategorized",WKMG-DT1
-https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" tvg-name="WKMJ-DT3" group-title="Uncategorized",WKMJ-DT3
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSjhZK7.png" tvg-name="Toonami Aftermath" group-title="animation",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-name="WPTV-DT1" group-title="Uncategorized",WPTV-DT1
-https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" tvg-name="WPXX-DT1" group-title="Uncategorized",WPXX-DT1
-http://104.255.88.155/ion/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7JpMArM.png" tvg-name="WRC-DT1" group-title="Uncategorized",WRC-DT1
-https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HC85eBq.png" tvg-name="WTMJ-DT1" group-title="Uncategorized",WTMJ-DT1
-https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ktLKla7.png" tvg-name="WTTG-DT1" group-title="Uncategorized",WTTG-DT1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/phHHs7l.png" tvg-name="TV Land Sitcoms" group-title="comedy",TV Land Sitcoms
-https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG" tvg-name="WVCU-LP" group-title="music",WVCU-LP
-https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/960px-WVIT_Logo_2017.svg.png" tvg-name="WVIT-DT1" group-title="Uncategorized",WVIT-DT1
-https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30ZoF75.png" tvg-name="TVS Boxing" group-title="sports",TVS Boxing
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyz1S2W.png" tvg-name="TVS Cipher Network" group-title="classic",TVS Cipher Network
@@ -1735,18 +1685,10 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-name="WHP-DT1" group-title="Uncategorized",WHP-DT1
 https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KW1iQ5W.png" tvg-name="WHPS-CD2" group-title="general",WHPS-CD2
-https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" tvg-name="WHSV-DT4" group-title="Uncategorized",WHSV-DT4
 http://104.255.88.155/metv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qA3KsTh.png" tvg-name="South Park" group-title="animation",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sr3EoK5.png" tvg-name="WLTV-DT1" group-title="Uncategorized",WLTV-DT1
-https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lv6HuCT.png" tvg-name="WSYX-DT1" group-title="Uncategorized",WSYX-DT1
-https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WthgOWL.png" tvg-name="WVIZ-DT2" group-title="Uncategorized",WVIZ-DT2
-https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQJxov2.png" tvg-name="Classic Movies Channel" group-title="movies",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-name="KTVU-DT1" group-title="general",KTVU-DT1
@@ -1755,8 +1697,6 @@ https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50JzsmH.png" tvg-name="PBC Tapesh TV" group-title="general",PBC Tapesh TV
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MWvoICD.png" tvg-name="KMGH-DT1" group-title="general",KMGH-DT1
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EyCDhgN.png" tvg-name="Sports TV Plus" group-title="sports",Sports TV Plus
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rKkHhkX.png" tvg-name="Stryk TV" group-title="music",Stryk TV
@@ -1781,8 +1721,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4wIRxg.png" tvg-name="VSiN" group-title="Uncategorized",VSiN
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HFmkjiR.png" tvg-name="WFTT-DT1" group-title="Uncategorized",WFTT-DT1
-https://stream-tampa.scientology.org/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zAtt7oq.png" tvg-name="Wired2FishTV" group-title="Uncategorized",Wired2FishTV
 https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-name="WKPC-DT2" group-title="Uncategorized",WKPC-DT2
