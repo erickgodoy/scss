@@ -1075,18 +1075,6 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 http://92.114.85.72:8000/play/a0lc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmdfcyG.png" tvg-name="That's TV" group-title="Uncategorized",That's TV
 http://92.114.85.72:8000/play/a0lb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wf62HhM.png" tvg-name="Together TV" group-title="Uncategorized",Together TV
-http://92.114.85.72:8000/play/a0j8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMuczfY.png" tvg-name="TV Warehouse" group-title="Uncategorized",TV Warehouse
-https://tvwarehouse.r.worldssl.net/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/awa4oas.png" tvg-name="Universal Somali TV" group-title="Uncategorized",Universal Somali TV
-http://dvrfl05.bozztv.com/gin-universalsomali/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-name="Nicktoons" group-title="kids",Nicktoons
-https://a1xs.vip/100054
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-name="Sony Max" group-title="Uncategorized",Sony Max
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-name="True Crime" group-title="series",True Crime
-https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-name="People Are Awesome" group-title="entertainment",People Are Awesome
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective" group-title="family",The Pet Collective
@@ -9100,12 +9088,6 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 tvg-name="Homeful" group-title="Undefined",Homeful
 https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Homerun TV" group-title="Undefined",Homerun TV
-https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P5Haaln.png" tvg-name="Homes Under Hammer (720p)" group-title="Series",Homes Under Hammer (720p)
-https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Homicide la chaîne du fait divers" group-title="Undefined",Homicide la chaîne du fait divers
-https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-name="Hoop TV" group-title="Undefined",Hoop TV
 https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4aoHg8.png" tvg-name="Horee! (720p) [Geo-blocked]" group-title="Kids",Horee! (720p) [Geo-blocked]
@@ -12303,24 +12285,6 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOokQmj.png" tvg-name="Voz Di Bonaire TV (720p)" group-title="Entertainment",Voz Di Bonaire TV (720p)
 https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZYlGIW.png" tvg-name="VTV1 (576p)" group-title="Undefined",VTV1 (576p)
-http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZYlGIW.png" tvg-name="VTV1 (1080p)" group-title="Undefined",VTV1 (1080p)
-http://p1.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsLLmR2.png" tvg-name="VTV4 (576p)" group-title="Undefined",VTV4 (576p)
-http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QiY55sy.png" tvg-name="VTV9 (576p)" group-title="Undefined",VTV9 (576p)
-http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsPkwD5.png" tvg-name="VTV (480p) [Not 24/7]" group-title="Undefined",VTV (480p) [Not 24/7]
-https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qjm4B0J.png" tvg-name="VTV Canal 32 (1080p)" group-title="General",VTV Canal 32 (1080p)
-https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IoHyW7w.png" tvg-name="VTV Füzesabony (720p)" group-title="Undefined",VTV Füzesabony (720p)
-http://stream.nmih.hu:7960/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x8jstsh.png" tvg-name="VTV Mór (360p)" group-title="General",VTV Mór (360p)
-https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AiUlIJ.png" tvg-name="Vuslat TV (720p) [Not 24/7]" group-title="Undefined",Vuslat TV (720p) [Not 24/7]
-http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQ8UyhL.png" tvg-name="W Polsce PL (720p)" group-title="Undefined",W Polsce PL (720p)
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXjVJd.png" tvg-name="W Shopping (720p)" group-title="Shop",W Shopping (720p)
@@ -15141,8 +15105,6 @@ http://92.114.85.81:8000/play/a01y/index.m3u8
 http://92.114.85.81:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S1zoIp7.png" tvg-name="Talking Pictures TV Ⓢ" group-title="UK",Talking Pictures TV Ⓢ
 http://92.114.85.79:8000/play/a0bt
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/640px-Together_TV_logo.svg.png" tvg-name="Together TV Ⓢ" group-title="UK",Together TV Ⓢ
-http://92.114.85.80:8000/play/a03r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/640px-Pop_UK_TV_Logo_%282015%29.svg.png" tvg-name="Pop Ⓢ" group-title="UK",Pop Ⓢ
 http://92.114.85.81:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Tiny_Pop_logo_2018.svg/640px-Tiny_Pop_logo_2018.svg.png" tvg-name="Tiny Pop Ⓢ" group-title="UK",Tiny Pop Ⓢ
@@ -16343,32 +16305,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="http://i2.wp.com/queenslatino.com/wp-content/uploads/2011/09/Nat-Geo-Mundo.jpg" tvg-name="NatGeo Mundo" group-title="Canales de Cultura",NatGeo Mundo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" tvg-name="TV Cosmos" group-title="Canales de Cultura",TV Cosmos
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" tvg-name="Cooking Channel" group-title="Canales de Cultura",Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" tvg-name="Lifedesign" group-title="Canales de Cultura",Lifedesign
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2011/12/world-fashion-channel.jpg" tvg-name="World Fashion" group-title="Canales de Cultura",World Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png" tvg-name="TWiT" group-title="Canales de Cultura",TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" tvg-name="World Fishing Network" group-title="Canales de Cultura",World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tc_g.jpg" tvg-name="Travel HD" group-title="Canales de Cultura",Travel HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" tvg-name="London Live" group-title="Canales de Cultura",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" tvg-name="24 TV CULTURALES" group-title="Canales de Cultura",24 TV CULTURALES
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" tvg-name="NEX TV" group-title="Canales de Latinos",NEX TV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Canal Wow TV" group-title="Canales de Latinos",Canal Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg" tvg-name="TEN Honduras" group-title="Canales de Latinos",TEN Honduras
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" tvg-name="Multimedios Costa Rica" group-title="Canales de Latinos",Multimedios Costa Rica
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/47/8d/55/478d558e-fcb9-743d-9552-df9e47dad1ee/source/512x512bb.jpg" tvg-name="Acento Tv" group-title="Canales de Latinos",Acento Tv
 http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_borealTV.png.670436e2072d13a97442d954c3c8a45e.png" tvg-name="BOREAL Television" group-title="Canales de Latinos",BOREAL Television
@@ -16465,12 +16401,8 @@ https://archive.org/download/sanmu69/sanmu69.avi
 http://210.210.155.35/session/4c0d1c4a-3034-11e9-94bb-b59a8d9f4b5a/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" tvg-name="Cinema 1" group-title="Canales de Cine",Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" tvg-name="TRT World | FHD" group-title="Canales de Noticias",TRT World | FHD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" tvg-name="TV5 Monde Info | FHD" group-title="Canales de Noticias",TV5 Monde Info | FHD
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" tvg-name="NHK World (Alt)| HD" group-title="Canales de Noticias",NHK World (Alt)| HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" tvg-name="Deutsche Welle Latino | SD" group-title="Canales de Noticias",Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" tvg-name="Deutsche Welle en Ingles | SD" group-title="Canales de Noticias",Deutsche Welle en Ingles | SD
@@ -16503,10 +16435,6 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.famouslogos.us/images/nbc-logo.jpg" tvg-name="NBC" group-title="Canales de Noticias",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9gHjXmn.png" tvg-name="NHK World" group-title="Canales de Noticias",NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" tvg-name="Viasat Sport | SD" group-title="Canales de Deportes",Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" tvg-name="Abu Dhabi Sports | SD" group-title="Canales de Deportes",Abu Dhabi Sports | SD
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" tvg-name="Abu Dhabi Sports 2 | SD" group-title="Canales de Deportes",Abu Dhabi Sports 2 | SD
@@ -19399,24 +19327,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Infantiles", duckTV (ES)
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Infantiles", BABY SHARK TV (ES)
-https://jmp2.uk/stvp-ES17000065P
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="Infantiles", LooLoo Kids (ES)
-https://jmp2.uk/stvp-ES5000001CS
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YF0dppZ2/plimplim.png" group-title="Infantiles",Plim Plim TV
-http://205.235.6.29:8000/play/a0xo/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First
-http://190.61.101.11:7050/play/a07p/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby First(Opc.2)
-http://45.170.130.224:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV
-http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.2)
-http://astra.fibernetisp.com.co/play/a073/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.3)
-http://205.235.6.29:8000/play/a0ze/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.4)
-http://205.235.6.29:8000/play/a0yj/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito
 http://190.61.101.11:7050/play/a08d/index.m3u8?hls
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",Cartoonito (Opc.2)
@@ -20546,10 +20456,6 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="ArirangTv.kr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Arirang_TV.png",Arirang TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/arirang_1gch.smil/playlist.m3u8
 
