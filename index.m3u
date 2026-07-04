@@ -11855,54 +11855,10 @@ http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" tvg-name="TV Plan (720p)" group-title="General",TV Plan (720p)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ZvOp6.png" tvg-name="TV Poprad (1080p) [Not 24/7]" group-title="General",TV Poprad (1080p) [Not 24/7]
-http://213.81.153.221:8080/poprad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvtJwOO.png" tvg-name="TV Prizreni" group-title="Undefined",TV Prizreni
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8PY1o81.jpg" tvg-name="TV Rheintal (720p)" group-title="General",TV Rheintal (720p)
-https://rtmp-vm.fidion.de/live/tvrt.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9EqSKLc.png" tvg-name="TV Rio Preto (720p)" group-title="General",TV Rio Preto (720p)
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ytz7jYV.png" tvg-name="TV Rivne 1 (720p)" group-title="General",TV Rivne 1 (720p)
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r7avFBX.png" tvg-name="TV Romana (720p)" group-title="Undefined",TV Romana (720p)
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUGuntH.png" tvg-name="TV Ružinov (1080p) [Not 24/7]" group-title="Undefined",TV Ružinov (1080p) [Not 24/7]
-http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png" tvg-name="TV San Jorge (1080p) [Not 24/7]" group-title="General",TV San Jorge (1080p) [Not 24/7]
-https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ckm2oLD.png" tvg-name="TV Sen (540p)" group-title="General",TV Sen (540p)
-http://95.105.193.219:88/hls/tvsen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oQSee9S.png" tvg-name="TV Severka (576p) [Not 24/7]" group-title="Undefined",TV Severka (576p) [Not 24/7]
-http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yo1oTIh.png" tvg-name="TV Sistemas Cuzco (360p) [Not 24/7]" group-title="General",TV Sistemas Cuzco (360p) [Not 24/7]
-https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GB8fMoJ.png" tvg-name="TV Skalica (540p)" group-title="General",TV Skalica (540p)
-http://95.105.193.219:88/hls/tvs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AohYgH1.png" tvg-name="TV Slon Extra (1080p) [Not 24/7]" group-title="Undefined",TV Slon Extra (1080p) [Not 24/7]
-http://31.47.0.130:8082
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNQaxy1.png" tvg-name="TV Sonce (1080p)" group-title="Undefined",TV Sonce (1080p)
-https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kerkvRX.png" tvg-name="TV Stará Turá (540p)" group-title="General",TV Stará Turá (540p)
-http://95.105.193.219:88/hls/tvst.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HbISMV.png" tvg-name="TV Sur Canal 9 (620p) [Not 24/7]" group-title="Undefined",TV Sur Canal 9 (620p) [Not 24/7]
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OpHYYZA.png" tvg-name="TV Sur Canal 14 (1080p)" group-title="Undefined",TV Sur Canal 14 (1080p)
-https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2jf591.png" tvg-name="TV SYD (1080p)" group-title="Undefined",TV SYD (1080p)
-https://cdnapi.kaltura.com/p/1956351/sp/195635100/playManifest/entryId/0_e9slj9wh/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQuFosn.png" tvg-name="TV Syri (720p)" group-title="Undefined",TV Syri (720p)
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2YhDH98.png" tvg-name="TV Tabalong (720p) [Not 24/7]" group-title="Undefined",TV Tabalong (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJdY1m3.png" tvg-name="TV Tarn (720p)" group-title="General",TV Tarn (720p)
-https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZwdXlN.png" tvg-name="TV Uršlja (1080p) [Not 24/7]" group-title="General",TV Uršlja (1080p) [Not 24/7]
-http://ott.sgn.net/hls/tvurslja.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qw3NeLA.png" tvg-name="TV Vega (576p) [Not 24/7]" group-title="Undefined",TV Vega (576p) [Not 24/7]
-http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wxjqYAF.png" tvg-name="TV Visión (720p) [Not 24/7]" group-title="General",TV Visión (720p) [Not 24/7]
-https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlWzzfj.png" tvg-name="TV Vitória (720p)" group-title="Entertainment",TV Vitória (720p)
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EiJzkIz.png" tvg-name="TV West (720p)" group-title="General",TV West (720p)
