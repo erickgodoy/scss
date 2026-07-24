@@ -53,9 +53,7 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="España", La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)[Opc. 2]
-http://24.152.53.3:8090/play/a013/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)[Opc. 3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)
 http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 -No 24/7-
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
@@ -361,10 +359,6 @@ http://24.152.53.3:8090/play/a013/index.m3u8?hls
 http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México", Imagen TV Plus (Nacional)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="México", Canal Once (IPN) (Nacional)
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="México", Multimedios Canal 6 (CDMX)
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="México", Clic TV (TV Azteca) (Nacional)
 https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="México",AZ click HD
@@ -373,8 +367,6 @@ http://190.61.101.11:7050/play/a085/index.m3u8?hls
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="México", Estrella TV Games (Nacional)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TWk8JT.png" group-title="México", Canal 15 ILCE (Nacional)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="México", Mexiquense TV (Edomex)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="México", TV Más (Veracruz)
